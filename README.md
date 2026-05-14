@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-![zolus](https://github.com/youssefbarj/zolus/raw/main/screenshot.png)
+![zolus](https://raw.githubusercontent.com/youssefbarj/zolus/main/screenshot.png)
 
 ## What this slide does
 
